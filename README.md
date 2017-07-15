@@ -1,8 +1,6 @@
 React Real world example
 =================
 
-----------------
-
 
 The purpose of this exercise is to build a real world example using React / Redux / Router to demonstrate best practices.
 
